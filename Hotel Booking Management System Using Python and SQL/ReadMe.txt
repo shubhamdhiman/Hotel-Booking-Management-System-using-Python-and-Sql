@@ -20,8 +20,8 @@ Description:
    1. 7 (.py) files are there.
       One is the main file i.e. OHBMS and 5 files will work as module in this project.
       The remaining 1 file is to create a database with tables.
-   2. First, use the file name Create_DataBase.py and create the database.
-      Then we have to run the main file that is OHBMS.py
+   2. First, create a connection with mysql server, then use the file, named as Create_DataBase.py and create the database.
+      Then we have to run the main file that is OHBMS.py and we can go through the code.
    3. Some lines are commented in the code which you can use according to your need.
 
 2. Prerequisites--
